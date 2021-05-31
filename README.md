@@ -1,6 +1,6 @@
 ### Hi there 👋, thanks for stopping by, this is **Weijie** from China, base in Beijing.
 
-[![Hello visitors](https://visitor-badge.glitch.me/badge?page_id=luanweijie.luanweijie)](https://github.com/jwenjian/visitor-badge)
+[![Hello visitors](https://visitor-badge.glitch.me/badge?page_id=luanweijie.luanweijie)]
 
 <!--
 **luanweijie/luanweijie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
